@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tiffany Anglero.
-- 👀 I use HTML/CSS, Javascript, Boostrap, and responsive development!
+- 👀 I use HTML/CSS, Javascript, Boostrap, React and responsive development!
 - 🌱 Forever learning about the vast field of web development.
 - 🌟 Connect with me on Linkedin! https://www.linkedin.com/in/tiffany-anglero/
 - 💞️ I’m looking to collaborate on any projects or anything that will challenge me and introduce me to new people;
