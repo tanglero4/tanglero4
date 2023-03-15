@@ -9,6 +9,7 @@ tanglero4/tanglero4 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
           
+![Tiffany`s GitHub stats](https://github-readme-stats.vercel.app/api?username=tanglero4&show_icons=true&theme=tokyonight)
           
-          
-![coding-girl](https://user-images.githubusercontent.com/96814274/160431438-4ca8dd2a-7970-4201-9e4f-05e18337934d.jpg)
+<!-- ![coding-girl](https://user-images.githubusercontent.com/96814274/160431438-4ca8dd2a-7970-4201-9e4f-05e18337934d.jpg)
+ -->
