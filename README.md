@@ -5,8 +5,8 @@
 - 📝 Matching Hex Value Regex Tutorial [https://gist.github.com/tanglero4/9c19c319ab83de4b7e4413fcd948cf7b](https://gist.github.com/tanglero4/9c19c319ab83de4b7e4413fcd948cf7b)
 - 💞️ Looking to collaborate on any projects or anything that will challenge my knowledge
 - 📨 Feel free to reach me via my email: tiffanyanglero94@gmail.com
-  
- ![Tiffany`s GitHub stats](https://github-readme-stats.vercel.app/api?username=tanglero4&show_icons=true&theme=tokyonight)          ![Cool Kids - Study](https://github.com/tanglero4/tanglero4/assets/96814274/4976f568-fe72-40af-94c2-dac5a7441ab4)
+ ![Cool Kids - Study](https://github.com/tanglero4/tanglero4/assets/96814274/4976f568-fe72-40af-94c2-dac5a7441ab4)
+ ![Tiffany`s GitHub stats](https://github-readme-stats.vercel.app/api?username=tanglero4&show_icons=true&theme=tokyonight)      
 <!---
 tanglero4/tanglero4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
