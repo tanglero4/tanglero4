@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tiffany Anglero.
-- 😊 I use HTML/CSS, Javascript, Boostrap, React and responsive development!
+- 🫡 I am currently working on PandaCritic 2.0
 - 🤝 Working with New York Faces Magazine and Justin Time Tree services.
 - 🌱 Forever learning about the vast field of web development.
 - 📝 Matching Hex Value Regex Tutorial [https://gist.github.com/tanglero4/9c19c319ab83de4b7e4413fcd948cf7b](https://gist.github.com/tanglero4/9c19c319ab83de4b7e4413fcd948cf7b)
